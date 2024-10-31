@@ -1,4 +1,4 @@
-"""Python Compiler V.1, By Lawrence Evans (Copy of PythonCompile333.py)"""
+"""Python Compiler V.1, By XxTheSunxX"""
 
 import py_compile
 import sys
